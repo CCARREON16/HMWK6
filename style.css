@@ -1,0 +1,33 @@
+.weather-container {
+background-color: aqua;
+text-align: center;
+
+}
+.weather{
+    font-size: 22px;
+    margin: 0;
+
+}
+.temp{
+    font-size: 60px;
+    margin: 0;
+    font-weight: bolder;
+
+
+
+}
+
+.box-title{
+background-color: grey;
+color: white;
+padding: 5px;
+border-radius: initial;
+
+
+}
+
+h1{
+text-align: center;
+
+
+}
